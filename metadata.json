@@ -1,0 +1,6 @@
+{
+  "name": "Online Tech",
+  "description": "A modern Tech Products E-Commerce platform featuring premium tech gadgets, real-time cart functionality, and responsive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
